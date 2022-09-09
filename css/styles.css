@@ -821,7 +821,7 @@ textarea::placeholder {
 }
 .form-field .icon {
   position: absolute;
-  top: 48%;
+  top: 55%;
   left: 15px;
   fill: currentColor;
   transition: fill 250ms var(--cubic-bezier);
